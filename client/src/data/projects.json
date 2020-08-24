@@ -31,7 +31,7 @@
         "name": "Weather Dashboard",
         "slug": "weather-dashboard",
         "description": "Simple Weather App that uses the OpenWeather API to retrieve weather data for cities",
-        "screenshot": "/img/weather-dashboard.png",
+        "screenshot": "/img/weather-dashboard-2.png",
         "github": "https://github.com/ckaley/weather-dashboard",
         "demo": "https://ckaley.github.io/weather-dashboard/"
     },
