@@ -37,20 +37,20 @@
     },
     {
         "id": "4",
-        "name": "Lover Store Barrel",
-        "slug": "lover-store-barrel",
-        "description": "Lorem ipsum dolar sit amet",
-        "screenshot": "https://picsum.photos/800/600",
-        "github": "https://github.com/",
-        "demo": "https://www.google.com/"
+        "name": "Burger App",
+        "slug": "aurger-app",
+        "description": "Applicaiotn that allows you to track a list of birgers that you desire to eat and if you have eaten them.",
+        "screenshot": "img/burger-image.png",
+        "github": "https://github.com/ckaley/burger",
+        "demo": "https://mysterious-fortress-85060.herokuapp.com/"
     },
     {
         "id": "5",
-        "name": "Aroma Bicycle Perfumet",
-        "slug": "aroma-bicycle-perfumet",
-        "description": "Lorem ipsum dolar sit amet",
-        "screenshot": "https://picsum.photos/800/600",
-        "github": "https://github.com/",
-        "demo": "https://www.google.com/"
+        "name": "Employee Summary",
+        "slug": "employee-summary",
+        "description": "Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person.",
+        "screenshot": "img/employee-summary.png",
+        "github": "https://github.com/ckaley/employee-summary",
+        "demo": "https://ckaley.github.io/employee-summary/"
     }
 ]
