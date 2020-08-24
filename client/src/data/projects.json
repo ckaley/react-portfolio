@@ -1,0 +1,56 @@
+[
+    {
+        "id": "0",
+        "name": "Renooster",
+        "slug": "Renooster",
+        "description": "A web application that allows users to keep track of your subscriptions.",
+        "screenshot": "/img/renewrooster.png",
+        "github": "https://github.com/ckaley/renooster",
+        "demo": "https://renooster.herokuapp.com/login"
+    },
+    {
+        "id": "1",
+        "name": "Nav Grub",
+        "slug": "Nav-Grub",
+        "description": "An Easy Way to Search and Find Favorite Restaurants Near You",
+        "screenshot": "/img/NavgrubLogo.png",
+        "github": "https://github.com/ckaley/nav-grub",
+        "demo": "https://ckaley.github.io/nav-grub/"
+    },
+    {
+        "id": "2",
+        "name": "Day Planner",
+        "slug": "day-planner",
+        "description": "Simple calendar application that allows you to save events for each hour of the day.",
+        "screenshot": "/img/day-planner-image.png",
+        "github": "https://github.com/ckaley/day-planner",
+        "demo": "https://ckaley.github.io/day-planner/"
+    },
+    {
+        "id": "3",
+        "name": "Cot Hope Rumour",
+        "slug": "cot-hope-rumour",
+        "description": "Lorem ipsum dolar sit amet",
+        "screenshot": "https://picsum.photos/800/600",
+        "github": "https://github.com/",
+        "demo": "https://www.google.com/"
+    },
+    {
+        "id": "4",
+        "name": "Lover Store Barrel",
+        "slug": "lover-store-barrel",
+        "description": "Lorem ipsum dolar sit amet",
+        "screenshot": "https://picsum.photos/800/600",
+        "github": "https://github.com/",
+        "demo": "https://www.google.com/"
+    },
+    {
+        "id": "5",
+        "name": "Aroma Bicycle Perfumet",
+        "slug": "aroma-bicycle-perfumet",
+        "description": "Lorem ipsum dolar sit amet",
+        "screenshot": "https://picsum.photos/800/600",
+        "github": "https://github.com/",
+        "demo": "https://www.google.com/"
+    }
+]
