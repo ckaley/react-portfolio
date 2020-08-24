@@ -13,7 +13,7 @@
         "name": "Nav Grub",
         "slug": "Nav-Grub",
         "description": "An Easy Way to Search and Find Favorite Restaurants Near You",
-        "screenshot": "/img/NavgrubLogo.png",
+        "screenshot": "/img/Nav-grub-image.png",
         "github": "https://github.com/ckaley/nav-grub",
         "demo": "https://ckaley.github.io/nav-grub/"
     },
@@ -21,19 +21,19 @@
         "id": "2",
         "name": "Day Planner",
         "slug": "day-planner",
-        "description": "Simple calendar application that allows you to save events for each hour of the day.",
+        "description": "Simple daily calendar application that allows you to save events for each hour of a single day. Utilizes responsive web design to scale to wach type of device screen",
         "screenshot": "/img/day-planner-image.png",
         "github": "https://github.com/ckaley/day-planner",
         "demo": "https://ckaley.github.io/day-planner/"
     },
     {
         "id": "3",
-        "name": "Cot Hope Rumour",
-        "slug": "cot-hope-rumour",
-        "description": "Lorem ipsum dolar sit amet",
-        "screenshot": "https://picsum.photos/800/600",
-        "github": "https://github.com/",
-        "demo": "https://www.google.com/"
+        "name": "Weather Dashboard",
+        "slug": "weather-dashboard",
+        "description": "Simple Weather App that uses the OpenWeather API to retrieve weather data for cities",
+        "screenshot": "/img/weather-dashboard.png",
+        "github": "https://github.com/ckaley/weather-dashboard",
+        "demo": "https://ckaley.github.io/weather-dashboard/"
     },
     {
         "id": "4",
